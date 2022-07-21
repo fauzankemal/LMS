@@ -27,12 +27,12 @@ def main():
 
     print("""
     LIBRARY MANAGEMENT SYSTEM
-    1. Pendaftaran User Baru
+    1. Pendaftaran Anggota Baru
     2. Pendaftaran Buku Baru
     3. Peminjaman
     4. Tampilkan Daftar Buku
-    5. Tampilkan Daftar User
-    6. Cari User
+    5. Tampilkan Daftar Anggota
+    6. Cari Anggota
     7. Tampilkan Daftar Peminjaman
     8. Cari Buku
     9. Pengembalian
